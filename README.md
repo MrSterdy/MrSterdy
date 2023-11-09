@@ -9,8 +9,4 @@
 
 - 📫 How to reach me **mrsterdy@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrsterdy&show_icons=true&locale=en&layout=compact" alt="mrsterdy" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrsterdy&show_icons=true&locale=en" alt="mrsterdy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrsterdy&" alt="mrsterdy" /></p>
